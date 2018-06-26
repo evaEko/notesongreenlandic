@@ -1,0 +1,126 @@
+body {
+ background: none;
+}
+button{
+
+  
+}
+.avatar {
+ border: none;
+ -webkit-box-shadow: none;
+ margin: 0;
+}
+.avatar:hover {
+   -webkit-transform: none;
+}
+.title {
+   font-family: Ubuntu, Cantarell;
+   margin-bottom: 0;
+}
+.subtitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: bolder;
+}
+.menu-list {
+  background-color: white;
+  opacity: 0.8;
+}
+.menu-item a{
+  color:black;
+  opacity: 1;
+}
+table{
+  border-collapse: separate;
+  margin-right: 1rem;
+}
+td, th {
+  white-space: nowrap; 
+
+}
+th {
+  background: #363636;
+  color: #bababa !important;
+}
+thead tr th:first-child {
+  background: transparent;
+  border:none;
+}
+td:first-child {
+  position: absolute;
+  width: 2.5em;
+  left: 0;
+  top: auto;
+  background-color: #363636;
+  color: #bababa;
+  font-weight: bold;
+}
+thead tr th {
+   background-color: none;
+
+}
+#cardBlock{
+   height:7rem;
+
+}
+#back, #front {
+  height: 2rem;
+}
+
+@media only screen and (max-width: 800px){
+  .site-header {
+    padding-bottom: 0;
+    margin-top: 1rem;
+  }
+  .avatar {
+    position: initial;
+  }
+  header {
+    padding:0;
+  }
+  header a {
+    top: -3.5rem;
+    left: -8rem;
+    padding-left: 1rem;
+  }
+  .menu-toggle {
+    position:fixed !important;
+    bottom: 1rem !important;
+    top: auto;
+    right: 1rem !important;
+    z-index:1000 !important;
+    display: block !important;
+  }
+  .navbar-fixed-bottom {
+     position:fixed;
+     bottom:0;
+     
+     width: 100%;
+     z-index: 100;
+     overflow-y: initial;
+
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    text-align:center;
+  }
+  #postlogo {
+    position: relative;
+    top: -4.2rem;
+    left: -8rem;
+    
+  }
+  #posttitle {
+    margin-top: auto;
+    margin-bottom: 0;
+  }
+  #postmainsubtitle {
+    margin-top: auto;
+    margin-bottom: 0;
+  }
+  #maintitle {
+    margin-top: auto !important;
+  }
+ 
+}
