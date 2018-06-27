@@ -1,4 +1,3 @@
-//let vocbase = [["Sulivunga.","I work(ed)."],["Sulivutit.","You work(ed))."],["Sulivoq.","It works(ed)."]];
 "use strict";
 let voc;
 let random;

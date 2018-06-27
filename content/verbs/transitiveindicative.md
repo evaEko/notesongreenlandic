@@ -7,7 +7,7 @@ draft: true
 
 ---
 
-{{< table_open >}}
+{{< table_open 3 >}}
 
 |      |  Me    |! Me   |You      |! You    |It     |! It  |Us      |! Us     |You pl  |! You pl | Them    |! Them|
 |----- |------- |------ |-------- |-------- |------ |----- |------- |-------- |------- |-------  |-------- | -----|
@@ -20,3 +20,4 @@ draft: true
 {{< table_close >}}
 
 {{< transitive_indicative >}}
+{{< flash >}}

@@ -13,7 +13,7 @@ Subject asking an object (Do I V it?)
 ### [Transitive Indicative](../verbs/transitiveindicative/)
 Subject talking about an object (I Vb it)
 
-### Intransitive Indicative
+### [Intransitive Indicative](../verbs/intransitiveindicative/)
 Only subject involved in the action (I Vb)
 
 ### Intransitive interrogative
