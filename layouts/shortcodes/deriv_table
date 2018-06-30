@@ -2,4 +2,4 @@
   overflow-x: scroll;
   margin-left: {{ .Get "margin-left" }}em;
   overflow-y: visible;
-  padding: 0;" class="derivtable">{{ .Inner }} </div>
+  padding: 0;" class="derivtable">{{ .Inner }}</div>

@@ -1,4 +1,1 @@
-<div style="width: 90%;
-  overflow-x: scroll;
-  overflow-y: visible;
-  padding: 0;">{{ .Inner }}</div>
+<div>{{ .Inner }}</div>

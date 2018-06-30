@@ -1,4 +1,0 @@
-<div>
-  <p style = "background-color: {{ .Get "class" }}">{{ .Inner }}</p>
-  <p> </p>
-</div>

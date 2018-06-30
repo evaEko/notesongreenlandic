@@ -1,0 +1,12 @@
+<div>
+  <h2 onload="init()">Test Yourself</h2>
+  <div id="cardBlock">
+    <p id="front"></p>
+    <p id="back"></p>
+  </div>
+
+  <div id="activeCardButtons">
+    <button id="switch" type="button" onclick="switchLang()">Switch</button>
+    <button id="next" onclick="next()">Answer</button>
+  </div>
+</div>

@@ -4,7 +4,7 @@ author: "Eva Kopalova"
 layout: "about"
 date: 2018-06-22T19:49:23+02:00
 draft: false 
-menu: "baseof"
+menu: "main"
 ---
 ## Moods
 
@@ -28,3 +28,4 @@ Subject of the superordinate clause is the subject of the subordinate clause (I 
 ## Other
 
 ### [Attribute Verbs]({{< ref "verbs/attributiveverbs.md" >}})
+

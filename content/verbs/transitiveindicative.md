@@ -3,11 +3,11 @@ title: "Transitive Indicative"
 author: "Eva Kopalova"
 layout: "about"
 date: 2018-06-22T19:58:52+02:00
-draft: true
+draft: false
 
 ---
 
-{{% deriv_table 3 %}}
+{{% deriv_table margin-left="0" %}}
 
 |      |  Me    |! Me   |You      |! You    |It     |! It  |Us      |! Us     |You pl  |! You pl | Them    |! Them|
 |----- |------- |------ |-------- |-------- |------ |----- |------- |-------- |------- |-------  |-------- | -----|

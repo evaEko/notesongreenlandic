@@ -2,7 +2,7 @@
 title: "Pronunciation, Assimilation, and and Orthographic Rules"
 date: 2018-06-30T11:12:35+02:00
 draft: true
-layout: "baseof"
+layout: "about"
 ---
 ### Basic Rules
 

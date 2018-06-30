@@ -18,7 +18,7 @@ Ateqar(have a name) + vu(do) + nga(I) -&gt;
 Ateqarpunga. = I am called
 ~~~~
 
-{{% deriv_table margin-left="2" %}}
+{{% deriv_table margin-left="0" %}}
 
 |      |vu+personal suffix |
 |----- |------------------ |
@@ -31,4 +31,5 @@ Ateqarpunga. = I am called
 {{% /deriv_table %}}
 
 {{< intransitive_indicative >}}
+
 {{< flash >}}
