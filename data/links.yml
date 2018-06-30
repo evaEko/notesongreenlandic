@@ -1,23 +1,41 @@
-01_chekun:
-  title: chekun's blog
-  link: https://chekun.me
-  avatar: /media/links/chekun.jpg
-  description: A full-stack developer
+01_per:
+  title: Learn Greenlandic
+  link: https://learngreenlandic.com/
+  avatar: /media/links/learnGreenlandic.png
+  description: paid systematic course focused on pronunciation and grammar
 
-02_wangbo:
-  title: Boof Wang
-  link: http://boof.wang
-  avatar: /media/links/wangbo.jpg
-  description: Another full-stack developer
+02_myanki:
+ title: My AnkiDroid cards
+ link: https://ankiweb.net/shared/info/1124411865
+ avatar: 
+ description: grammar, vocab, phrases flash cards
 
-03_yuanxuxu:
-  title: Ryan's blog
-  link: https://yuanxuxu.com/
-  avatar: /media/links/yuanxuxu.jpg
-  description: A interesting developer
+03_danishdict:
+ title: Danish-Greenlandic and Greenlandic-Danish dictionary
+ link: http://www.ilinniusiorfik.gl/oqaatsit/daka
+ avatar: 
+ description: Greenlandic dictionary online
 
-04_candisheng:
-  title: Kan Disheng
-  link: http://www.kandisheng.com/
-  avatar: /media/links/kandisheng.jpg
-  description: A crazy developer
+04_wordanalyser:
+ title: Word Analyser
+ link: https://oqaasileriffik.gl/langtech/lookup/
+ avatar: 
+ description: splits your word into stems and morphemes
+
+05_martha:
+ title: Machine Pronunciation
+ link: https://oqaasileriffik.gl/langtech/martha/
+ avatar: 
+ description: pronounces the input (really good)
+
+06_memrise:
+ title: Memrise Greenlandic Course
+ link: https://www.memrise.com/courses/english/greenlandic/
+ avatar: 
+ description: bunch of useful phrases in a gammified tool
+
+07_blog:
+ title: Nice easy blog of someone on tumblr
+ link: http://learngreenlandic.tumblr.com/
+ avatar: 
+ description: really cool

@@ -1,0 +1,19 @@
+
+<table>
+  <thead>
+    <tr>      
+      <th>Sound</th>
+      <th>Greenlandic</th>
+      <th>Translation</th>
+      <th>Audio</th>
+    </tr>
+  </thead>
+{{ range .Site.Data.pron }}
+   <tr>
+     <td>{{.sound}}</td>
+     <td>{{.gl}}</td>
+     <td>{{.en}}</td>
+     <td><audio style="max-width:100px;" src="/media/pronsamples/{{.file}}" controls>your browser does not support the audio element.</audio></td>
+   </tr>
+{{ end }}
+</table>

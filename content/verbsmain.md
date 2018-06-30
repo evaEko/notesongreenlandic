@@ -1,19 +1,20 @@
 ---
 title: "Verbs"
 author: "Eva Kopalova"
-menu: "main"
 layout: "about"
 date: 2018-06-22T19:49:23+02:00
 draft: false 
+menu: "baseof"
 ---
+## Moods
 
-### Transitive Interrogative
+### [Transitive Interrogative]({{< ref "transitiveinterrogative.md" >}})
 Subject asking an object (Do I V it?)
 
-### [Transitive Indicative](../verbs/transitiveindicative/)
+### [Transitive Indicative]({{< ref "verbs/transitiveindicative.md" >}})
 Subject talking about an object (I Vb it)
 
-### [Intransitive Indicative](../verbs/intransitiveindicative/)
+### [Intransitive Indicative]({{< ref "verbs/intransitiveindicative.md" >}})
 Only subject involved in the action (I Vb)
 
 ### Intransitive interrogative
@@ -24,4 +25,6 @@ Subject of the superordinate clause is the subject of the subordinate clause (I 
 
 ### Particle
 
-### List of Verbs
+## Other
+
+### [Attribute Verbs]({{< ref "verbs/attributiveverbs.md" >}})

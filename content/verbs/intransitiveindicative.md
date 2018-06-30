@@ -12,23 +12,23 @@ Suli(work) + vu(do) + nga(I) -&gt;
 Sulivunga. = I work(ed).
 ~~~~~
 
-If a verb stem finishes with consonant, v vocalizes to p:
+If a verb stem finishes with a consonant, v vocalizes to p:
 ~~~~
 Ateqar(have a name) + vu(do) + nga(I) -&gt;
 Ateqarpunga. = I am called
 ~~~~
 
-{{< table_open 0, 25>}}
+{{% deriv_table margin-left="2" %}}
 
-||vu+personal suffix |
-|----- |-------- |
-|I     |vu-nga   |
-|You   |vu-tit   |
-|He    |vu-q     |
-|We    |vu-gut   |
-|You pl|vu-ssi   |
-|They  |vu-t     |
-{{< table_close >}}
+|      |vu+personal suffix |
+|----- |------------------ |
+|I     |vu-nga             |
+|You   |vu-tit             |
+|He    |vu-q               |
+|We    |vu-gut             |
+|You pl|vu-ssi             |
+|They  |vu-t               |
+{{% /deriv_table %}}
 
 {{< intransitive_indicative >}}
 {{< flash >}}

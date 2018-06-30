@@ -41,35 +41,33 @@ button:hover {
   color:black;
   opacity: 1;
 }
-table{
+
+.derivtable{
   border-collapse: separate;
   margin-right: 1rem;
   margin-top: 0;
 }
-td, th {
+.derivtable td, th {
   white-space: nowrap; 
-
+min-width: 3rem;
 }
-th {
-  background: #363636;
+.derivtable th {
+  background: white;
   color: #bababa !important;
 }
-thead tr th:first-child {
-  background: transparent;
-  border:none;
-}
-td:first-child {
+
+.derivtable td:first-child {
   position: absolute;
   width: 2.5em;
   left: 0;
   top: auto;
-  background-color: #363636;
+  background-color: white;
   color: #bababa;
   font-weight: bold;
 }
-thead tr th {
-   
 
+thead tr th {
+  border-bottom:1pt solid #bababa;
 }
 #cardBlock{
    height:7rem;
@@ -88,6 +86,13 @@ thead tr th {
   padding: 10px;
 }
 
+pre {
+   padding: 0 !important;
+}
+.icon.icon-menu {
+  color:black;
+
+}
 @media only screen and (max-width: 800px){
   .site-header {
     padding-bottom: 0;

@@ -7,7 +7,7 @@ draft: true
 
 ---
 
-{{< table_open 3 >}}
+{{% deriv_table 3 %}}
 
 |      |  Me    |! Me   |You      |! You    |It     |! It  |Us      |! Us     |You pl  |! You pl | Them    |! Them|
 |----- |------- |------ |-------- |-------- |------ |----- |------- |-------- |------- |-------  |-------- | -----|
@@ -17,7 +17,7 @@ draft: true
 |We    |        |       |vatsigit |         |varput |      |        |         |vassi   |         |vavut    |nngilagut|
 |You pl|vassinga|       |         |         |varsi  |      |vassigut|         |        |         |vasi     |         |
 |They  |vaannga |       |vaatsit  |         |vaat   |      |vaatugut|         |vaasi   |         |vaat     |         |
-{{< table_close >}}
+{{% /deriv_table %}}
 
 {{< transitive_indicative >}}
 {{< flash >}}

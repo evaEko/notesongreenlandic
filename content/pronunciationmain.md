@@ -5,5 +5,5 @@ menu: "main"
 draft: false
 layout: "about"
 ---
-
+### [Pronunciation, Assimilation, and and Orthographic Rules](../pronunciation/rules/)
 ### [Pronunciation Samples](../pronunciation/samples/)
