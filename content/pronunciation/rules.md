@@ -13,8 +13,8 @@ layout: "about"
    * &nbsp;&nbsp;&nbsp;&nbsp;u becomes o if followed by q or r
    * &nbsp;&nbsp;&nbsp;&nbsp;i becomes e if followed by q or r
     Orthographic combinations ur, uq, ir, iq do not exist.
-  _ulloq-innaq ->ulluinnaq_
-  _kingullilik -> kingulleq-lik_
+     * _ulloq-innaq -> ulluinnaq_
+     * _kingullilik -> kingulleq-lik_
 
 
 ### Assimilation Rules
@@ -28,4 +28,5 @@ layout: "about"
 *   when a+\[vowel\] => aa
     
     _This does not apply if the "a" is the final letter of a word_: ataata +i -> ataatai
-* ...uva... -&gt; ua (taku +vara -&gt; takuara)
+* ...uva... -> ua (taku +vara -&gt; takuara)
+* ...uvi... -> ui 

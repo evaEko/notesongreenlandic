@@ -42,10 +42,13 @@ button:hover {
   opacity: 1;
 }
 
+table {
+  border-collapse: separate !important;
+}
+
 .derivtable{
-  border-collapse: separate;
-  margin-right: 1rem;
   margin-top: 0;
+ /* margin-right: 1rem; */
 }
 .derivtable td, th {
   white-space: nowrap; 

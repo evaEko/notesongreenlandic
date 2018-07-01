@@ -1,3 +1,16 @@
 <script>
-let vocbase = [["Sulivunga.","I work(ed)."],["Sulivutit.","You work(ed))."],["Sulivoq.","It works(ed)."]];
+let vocbase = [
+    ["Sulivunga.","I work(ed)."],
+    ["Sulivutit.","You work(ed))."],
+    ["Sulivoq.","It works(ed)."],
+    ["Sulivugut.","We work(ed)."],
+    ["Sulivussi.","You pl work(ed)."],
+    ["Sulipput.","They work(ed)."],
+    ["Sulinngilanga.","I don't work."],
+    ["Sulinngilatit.","You don't work."],
+    ["Sulinngilaq.","It doesn/t work."],
+    ["Sulinngilagut.","We don't work."],
+    ["Sulinngilasi.","You pl don't work."],
+    ["Sulinngillat.","They don't work."]
+    ];
 </script>

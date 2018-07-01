@@ -10,12 +10,10 @@
       and vocabulary.</p>
       <p>Here is the full list of topics:</p>
       <ul>
-      {{ range .Pages }}
-        {{if ne .Title "About"}}
-        <li>
-          <a href="{{.URL}}">{{.Title}}</a>
-        </li>
-        {{ end}}
+          {{ range .Data.Pages }}
+          <li>
+              <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+          </li>
       {{ end }}
       </ul>
   </section>
