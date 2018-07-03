@@ -1,11 +1,11 @@
 ---
 title: "Intransitive Indicative"
-author: "Eva Kopalova"
 date: 2018-06-23T23:23:13+02:00
-draft: true
+draft: false
 layout: "about"
+weight: 410
 ---
-Intransitive indicative expresses that a person does ("someone verbs").
+Intransitive indicative expresses that a subject does ("something/one verbs").
 The suffix to the verb stem is **vu**. Then you attach the personal ending:
 ~~~~~
 Suli(work) + vu(do) + nga(I) ->
@@ -34,6 +34,6 @@ When **negating**, mind that tv->l; hence `nngit + vu -> nngitvu -> nngila`
 |They  |vu-t               | nngilla-t  |
 {{% /deriv_table %}}
 
-{{< intransitive_indicative >}}
+{{< intransitive_indicative_cards >}}
 
 {{< flash >}}

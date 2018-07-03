@@ -3,6 +3,7 @@ title: "Transitive Interrogative"
 date: 2018-06-30T10:28:54+02:00
 draft: false
 layout: "about"
+weight: 440
 ---
 Subject is asking an object (Do I V it?).
 

@@ -5,27 +5,42 @@ layout: "about"
 date: 2018-06-22T19:49:23+02:00
 draft: false 
 menu: "main"
+weight: 400
 ---
-## Moods
 
-### [Transitive Interrogative]({{< ref "transitiveinterrogative.md" >}})
-Subject asking an object (Do I V it?)
+Verbs' behavior is mainly determined by its transitivity. Transitivity is the ability of a verb to bind a direct object (object with no preposition; in Slovak, the accusative case):
 
-### [Transitive Indicative]({{< ref "verbs/transitiveindicative.md" >}})
-Subject talking about an object (I Vb it)
+* I am reading: *read* is intransitive in this sentence
+* I am reading a book: *read* is transitive.
+* I am sleeping: *sleeping* is intransitive (and cannot be transitive: <s>I am sleeping it</s>).
 
-### [Intransitive Indicative]({{< ref "verbs/intransitiveindicative.md" >}})
+Similarly in Greenlandic:
+
+* `Sinnippoq` ([intransitive indicative](intransitiveindicative)): he sleeps/slept (sinnik + voq); <s>Sinnippaanga</s>
+* `Eqqaamavaanga` ([transitive indicative](transitiveindicative)): he remembers me(eqqaama + vaanga); <s>Eqqaamavoq</s>
+
+Based on transitivity, the respective transitive of intransitive paradigm is used for the verb.
+
+## Moods of Verbs
+### Indicative
+S1 does something.
+#### [Intransitive Indicative](intransitiveindicative)
 Only subject involved in the action (I Vb)
-
-### Intransitive interrogative
+#### [Transitive Indicative](transitiveindicative)
+Subject talking about an object (I Vb it)
+### Interrogative
+Does subject do something?
+#### [Intransitive Interrogative](intransitiveinterrogative)
 Subject is asking with an object involved (Do I Vb it?)
-
-### Contemporative
-Subject of the superordinate clause is the subject of the subordinate clause (I Vb that I Vb.)
-
-### Particle
+#### [Transitive Interrogative](transitiveinterrogative)
+Subject asking an object (Do I V it?)
+### [Contemporative](contemporative)
+Used in subordinate subject or object clause when the subject of the superordinate clause is the subject of the subordinate clause (Subject Vbs that Subject Vbs.)
+### [Participle](participle)
+Used in subordinate object clauses without coreference (Subject1 Vbs that Subject1 Vbs.)
 
 ## Other
 
-### [Attribute Verbs]({{< ref "verbs/attributiveverbs.md" >}})
+### [Future](future)
+### [Attribute Verbs](attributiveverbs)
 

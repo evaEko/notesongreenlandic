@@ -1,6 +1,6 @@
 <header class="site-header">
   {{  if eq .Kind "home" }}
-  <h1 id="posttitle">{{ .Site.Title }}</h1>
+  <h2 id="posttitle">{{ .Site.Title }}</h1>
   {{ else }}
   <h2 id="postmaintitle" class="title">{{ .Site.Title }}</h2>
   {{ end }}
@@ -20,12 +20,6 @@
       {{ range .Site.Menus.main }}
         <li class="menu-item
             {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-              is-active
-            {{ end }}
-            {{ if and (eq .Identifier "tags") (and (eq $type "page") (or (eq $kind "taxonomyTerm") (eq $kind "taxonomy"))) }}
-              is-active
-            {{ end }}
-            {{ if and (eq .Identifier "home") (eq $type "post") }}
               is-active
             {{ end }}">
             <a href="{{ .URL }}">{{ .Name }}</a>

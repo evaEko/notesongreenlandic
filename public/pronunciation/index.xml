@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pronunciation on Greenlandic</title>
+    <link>http://kopalova.sk/pronunciation/</link>
+    <description>Recent content in Pronunciation on Greenlandic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2018 Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Please give source if you quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 26 Jun 2018 17:33:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://kopalova.sk/pronunciation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assimilation, and Orthographic Rules</title>
+      <link>http://kopalova.sk/pronunciation/rules/</link>
+      <pubDate>Sat, 30 Jun 2018 11:12:35 +0200</pubDate>
+      
+      <guid>http://kopalova.sk/pronunciation/rules/</guid>
+      <description>Basic Rules  Two vowels
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;long o and u, and i and e  &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;u becomes o if followed by q or r &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;i becomes e if followed by q or r Orthographic combinations ur, uq, ir, iq do not exist.  ulloq-innaq -&amp;gt; ulluinnaq kingullilik -&amp;gt; kingulleq-lik   loan and foreign words append i when adding a suffix:  56-inik Thor+mik -&amp;gt; Thorimik  When adding a suffix starting with t, t becomes s if the stem ends with a vowel:  taa + tar + vaat -&amp;gt; taasarpaat suli + toq -&amp;gt; sulisoq   Assimilation Rules  If there are two consonants, the second one assimilates the first one: [c1][c2] -&amp;gt; [c2][c2]</description>
+    </item>
+    
+    <item>
+      <title>Samples</title>
+      <link>http://kopalova.sk/pronunciation/samples/</link>
+      <pubDate>Tue, 26 Jun 2018 17:33:18 +0200</pubDate>
+      
+      <guid>http://kopalova.sk/pronunciation/samples/</guid>
+      <description>Sound Greenlandic Translation Audio    - Aappersarissatnalinginnaasut Shortsingleconsonants Your browser does not support the audio element.   - Aappersarissatsukassutillit Longdoubleconsonants Your browser does not support the audio element.   - Ersiutitnalinginnaasut Shortsinglevowels Your browser does not support the audio element.   - Ersiutitsivisuut Doublevowels Your browser does not support the audio element.   aa aanaa grandma Your browser does not support the audio element.</description>
+    </item>
+    
+  </channel>
+</rss>

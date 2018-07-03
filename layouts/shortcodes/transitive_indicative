@@ -26,6 +26,6 @@ let vocbase = [
     ["vaatsit", "They V you."],
     ["vaat", "They V it."],
     ["vaatigut", "They V us."],
-    ["vaasi", "They V you(pl)."],
+    ["vaasi", "They V you(pl)."]
   ];</script>
   

@@ -1,0 +1,35 @@
+<script>
+let vocbase = [
+
+[ "0", "nul"],
+[ "1", "attaaseq/en"],
+[ "2", "marluk/to"],
+[ "3", "pingasut/tre [tʁɛ:]"],
+[ "4", "sisamat/fire [fi:ɒ]"],
+[ "5", "tallimat/fem"],
+[ "6", "arfineq/seks"],
+[ "7", "arfineq-marluk/syv [syu]"],
+[ "8", "arfineq-pingasut/otte [ɔ:də]"],
+[ "9", "qulingiluat/ni[]"],
+[ "10", "qulit/ti [ti:]"],
+[ "11", "elleve [ɛlvə]"],
+[ "12", "tolv [tɒl]"],
+[ "13", "tretten [tʁadən]"],
+[ "14", "fjorten [fjoɒdən]"],
+[ "15", "femten [fɛmdən]"],
+[ "16", "seksten [sɑjsdən]"],
+[ "17", "sytten [sødən]"],
+[ "18", "atten [adən]"],
+[ "19", "nitten [nidən]"],
+[ "20", "tyve [ty:və]"],
+[ "30", "tredive [tʁaðvə]"],
+[ "40", "fyrre [føɐʌ]"],
+[ "50", "halvtreds [haltrεs]"],
+[ "60", "tres [trεs]"],
+[ "70", "halvfjerds [halfjæɐs]"],
+[ "80", "firs [fiɐs]"],
+[ "90", "halvfems [halfεms]"],
+[ "100", "hundrede [hunʌðə]"],
+[ "1000", "tusind [tusən]"]
+];
+</script>

@@ -6,15 +6,28 @@
     </header>
     <h1>Welcome!</h1>
     <p>This page is a collection of notes on West Greenlandic. It contains information on vocabulary, 
-      grammar, and pronunciation. In some cases, I added a small flashcard game to memorize suffixes
-      and vocabulary.</p>
+      grammar, and pronunciation. In some cases, I added a flashcard 
+      app and vocabulary.</p>
       <p>Here is the full list of topics:</p>
-      <ul>
-          {{ range .Data.Pages }}
-          <li>
-              <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-          </li>
-      {{ end }}
+        <!-- list all pages of the site-->
+        {{ range .Site.Pages.ByWeight }}
+        <!--excluding pages link links and about based on their exclude parameter:-->
+        {{ if ne .Params.exclude 1 }}
+            <!-- render additional h2 if the current file is an index-->
+           {{ if eq .File.BaseFileName "_index"}}
+         </ul>
+           <h2>{{ .Title }}</h2>
+         <ul>
+           {{ end }}
+           <li>
+           {{ if eq .File.BaseFileName "_index"}}
+             <a href="{{ .URL }}">Introduction </a>
+           {{ else }}
+             <a href="{{ .URL }}">{{ .Title }}</a>
+           {{ end }}     
+           </li>
+        {{ end }}     
+      {{ end }}     
       </ul>
   </section>
   {{ partial "footer.html" . }}

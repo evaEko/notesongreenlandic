@@ -8,7 +8,7 @@ let vocbase = [
     ["Sulipput.","They work(ed)."],
     ["Sulinngilanga.","I don't work."],
     ["Sulinngilatit.","You don't work."],
-    ["Sulinngilaq.","It doesn/t work."],
+    ["Sulinngilaq.","It doesn't work."],
     ["Sulinngilagut.","We don't work."],
     ["Sulinngilasi.","You pl don't work."],
     ["Sulinngillat.","They don't work."]

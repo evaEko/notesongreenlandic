@@ -1,0 +1,16 @@
+<script>
+let vocbase = [
+    ["atuagaq (book)", "atuakkat"],
+    ["meeraq (child)", "meeqqat"],
+    ["taseq (lake)", "tatsit"],
+    ["kikiat (nail)", "kikissat (j is geminated)"],
+    ["imaq (ocean)", "immat"],
+    ["erneq (son)", "ernerit"],
+    ["angut (man)", "angutit"],
+    ["arnaq (woman)", "arnat"],
+    ["orpik (tree)", "orpiit"],
+    ["assak (hand)", "assaat"],
+    ["illu (house)", "illut"],
+    ["inuk (human)", "inuit"]
+  ];
+</script>

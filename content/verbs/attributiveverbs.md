@@ -3,6 +3,7 @@ title: "Attributive Verbs"
 date: 2018-06-29T18:03:01+02:00
 draft: false
 layout: "about"
+weight: 480
 ---
 
 Saying something has some quality:

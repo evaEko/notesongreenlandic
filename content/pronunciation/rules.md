@@ -1,20 +1,26 @@
 ---
-title: "Pronunciation, Assimilation, and and Orthographic Rules"
+title: "Assimilation, and Orthographic Rules"
 date: 2018-06-30T11:12:35+02:00
-draft: true
+draft: false
 layout: "about"
+weight: 610
 ---
 ### Basic Rules
 
-*   "ti" is pronounced as \[tsi\]
 * **Two vowels**  
 &nbsp;&nbsp;&nbsp;&nbsp;long
 * **o** and **u**, and **i** and **e**
    * &nbsp;&nbsp;&nbsp;&nbsp;u becomes o if followed by q or r
    * &nbsp;&nbsp;&nbsp;&nbsp;i becomes e if followed by q or r
     Orthographic combinations ur, uq, ir, iq do not exist.
-     * _ulloq-innaq -> ulluinnaq_
-     * _kingullilik -> kingulleq-lik_
+     * `ulloq-innaq -> ulluinnaq`
+     * `kingullilik -> kingulleq-lik`
+* loan and foreign words append `i` when adding a suffix:
+  * `56-inik`
+  * `Thor+mik -> Thorimik`
+* When adding a suffix starting with `t`, `t` becomes s if the stem ends with a vowel:
+  * taa + tar + vaat -> taasarpaat
+  * suli + toq -> sulisoq 
 
 
 ### Assimilation Rules
@@ -30,3 +36,5 @@ layout: "about"
     _This does not apply if the "a" is the final letter of a word_: ataata +i -> ataatai
 * ...uva... -> ua (taku +vara -&gt; takuara)
 * ...uvi... -> ui 
+* `t` between two vowels becomes `n`:
+  *`_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is
