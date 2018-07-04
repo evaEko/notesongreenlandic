@@ -1,0 +1,8 @@
+<script>
+let vocbase = [
+    ["vit?","Do you?"],
+    ["va?", "Does it?"],
+    ["visi?", "Do you pl?"],
+    ["(v)vat?", "Do they?"]
+    ];
+</script>

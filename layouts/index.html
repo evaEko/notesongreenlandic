@@ -19,11 +19,18 @@
            <h2>{{ .Title }}</h2>
          <ul>
            {{ end }}
-           <li>
            {{ if eq .File.BaseFileName "_index"}}
-             <a href="{{ .URL }}">Introduction </a>
+           <li>
+             <a href="{{ .URL }}">Introduction</a>
+           </li>
            {{ else }}
-             <a href="{{ .URL }}">{{ .Title }}</a>
+             {{ if ne .Section "tags" }}
+             {{ if ne .Section "categories" }}
+             <li>
+               <a href="{{ .URL }}">{{ .Title }}</a>
+             </li>
+             {{ end }}
+             {{ end }}
            {{ end }}     
            </li>
         {{ end }}     

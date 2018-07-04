@@ -19,3 +19,7 @@ something ("Does something/someone verb?").
 
 {{% /deriv_table %}}
 
+{{< intransitive_interrogative_cards >}}
+
+{{< flash >}}
+

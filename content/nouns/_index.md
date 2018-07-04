@@ -9,5 +9,5 @@ weight: 300
 ### [Up and P Nouns](types/)
 ### [Gemination in Noun Stems](gemination/)
 ### [Plural](plural/)
-### [Cases](/cases)
+### [Cases](cases/)
 
