@@ -31,7 +31,7 @@ When **negating**, mind that tv->l; hence `nngit + vu -> nngitvu -> nngila`
 |He    |vu-q               | nngila-q   |
 |We    |vu-gut             | nngila-gut |
 |You pl|vu-ssi             | nngila-si  |
-|They  |vu-t               | nngilla-t  |
+|They  |ppu-t               | nngilla-t  |
 {{% /deriv_table %}}
 
 {{< intransitive_indicative_cards >}}

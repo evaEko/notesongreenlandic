@@ -5,7 +5,7 @@ button {
     background-color: #95D195;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 1rem 1rem 1rem 1rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -83,14 +83,25 @@ thead tr th {
   border-bottom:1pt solid #bababa;
 }
 #cardBlock{
-   height:7rem;
 
 }
-#back, #front {
-  height: 2rem;
+#mode, #switch, #next {
+  margin-bottom: 0.2rem; 
+}
+#front {
+  margin: 0 0 1rem 0;
+}
+#back {
+  margin: 1rem 0 0 0;
+}
+#switch, #mode {
+  width: 49%;
 }
 #next{
-  min-width: 10rem;
+  width: 100%;
+}
+#validity_check {
+  margin: 0.2rem;
 }
 .container-center{
   margin: auto;
