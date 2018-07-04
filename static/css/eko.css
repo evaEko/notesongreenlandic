@@ -75,6 +75,10 @@ min-width: 3rem;
   font-weight: bold;
 }
 
+ tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+
 thead tr th {
   border-bottom:1pt solid #bababa;
 }

@@ -1,5 +1,5 @@
 ---
-title: "Assimilation, and Orthographic Rules"
+title: "Phonotactics and Orthographic Rules"
 date: 2018-06-30T11:12:35+02:00
 draft: false
 layout: "about"
@@ -15,10 +15,10 @@ weight: 610
     Orthographic combinations ur, uq, ir, iq do not exist.
      * `ulloq-innaq -> ulluinnaq`
      * `kingullilik -> kingulleq-lik`
-* loan and foreign words append `i` when adding a suffix:
+* loan and foreign words append `i` when adding a suffix (repair strategy):
   * `56-inik`
   * `Thor+mik -> Thorimik`
-* When adding a suffix starting with `t`, `t` becomes s if the stem ends with a vowel:
+* When adding a suffix starting with `t`, `t` becomes `s` if the stem ends with a vowel:
   * taa + tar + vaat -> taasarpaat
   * suli + toq -> sulisoq 
 
@@ -37,4 +37,4 @@ weight: 610
 * ...uva... -> ua (taku +vara -&gt; takuara)
 * ...uvi... -> ui 
 * `t` between two vowels becomes `n`:
-  *`_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is
+  * `_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is

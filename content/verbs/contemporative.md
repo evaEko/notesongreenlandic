@@ -5,20 +5,19 @@ draft: false
 layout: "about"
 weight: 450
 ---
-
-Expresses something that the subject of the superordinate clause is doing.
-
-It is equivalent to *participle phrases*, such as, "*Buttering toast with a fork*,
-Bernard vowed that he would finally wash the week's worth of dirty dishes piled in the sink."
-
 It is coreferential *only*: the subject of the participle clause *is the same*
 as the subject of the superordinate clause (it was Bernard who was buttering the toast *and*
 vowing). If the subject is different, use the particle.
 
-The suffix is `(l)lu + person suffix` the `lu` meaning that the subject of the superordinate clause does
-(if there is no ll or equivalent, such as rl, an l is added).
+It expresses something that the subject of the superordinate clause is doing:
+* It is equivalent to *participle phrases*, such as, "*Buttering toast with a fork*,
+Bernard vowed that he would finally wash the week's worth of dirty dishes piled in the sink."
+* It is used in the coordination like `A v1 B and A v2`: v2 will be in contemporative.
+* Expresses the circumstances, typically expressed by adverbs in English, such as, `It was pleasantly warm` : `It was warm being pleasant` -> ``TODO
 
-It can be transitive or intransitive depending on the verb used in contemporative clause.
+The suffix is `(l)lu + person suffix` the `lu` meaning *that the subject of the superordinate clause does* (if there is no `ll` or equivalent, such as `rl`, an `l` is added).
+
+It can be transitive or intransitive depending on the verb used in contemporative clause: in intranstive, it defines the subject; in transitive the object of the subordinate clause.
 
 ## Contemporative Transitive
 
@@ -29,11 +28,11 @@ The form expresses the object of the action only!
 
 {{% deriv_table margin-left="0" %}}
 
-| Object | Affirmative Suffix | Negative  |
-|--------|--------------------|-----------|
+| Object | Affirmative Suffix | Negative  | Example                | Translation|
+|--------|--------------------|-----------|------------------------|------------|
 | me     | (l)lunga           |           |
 | you    | (l)lutit           |           |
-| it     | (l)lugu            |           |
+| it     | (l)lugu            |           |...arnaq pilerpoq Jensen eqillugu| ..the woman said embracing Jensen.|
 | us     | (l)uta             |           |
 | you pl | (l)lusi            |           |
 | them   | (l)lugit           |           |

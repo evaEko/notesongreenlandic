@@ -79,6 +79,7 @@ sinnip + giatur +poq => sinniggiaturpoq -> sinniKKiatorpoq
 `[noun ending in a vowel] + PAKSUAQ: insert an "r"`
 
 `ukiorpassuarni`: in many years
+**Note:** Singular many like in <s>`ukiorpassuaq`</s> does not exist obviously, only `ukiorpassuit`
 
 **Examples:**
 

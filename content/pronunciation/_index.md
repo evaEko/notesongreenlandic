@@ -6,5 +6,5 @@ draft: false
 layout: "about"
 weight: 600 
 ---
-### [Pronunciation, Assimilation, and and Orthographic Rules](rules/)
+### [Phonotactics and and Orthographic Rules](rules/)
 ### [Pronunciation Samples](samples/)
