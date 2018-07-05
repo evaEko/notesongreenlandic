@@ -1,107 +1,123 @@
  "use strict";
-  //current deck:
-  let voc;
-  //current random number:
-  let random;
-  //card with the index random:
-  let currentCard;
   //current language:
-  let lang = 0;
+  let sourceLang = "EN";
   //display mode by default:
-  let mode = 0;
-
-  const backCard = document.getElementById("back");
-  const frontCard = document.getElementById("front");
-  const backInput = document.getElementById("back_input");
-  const frontInput = document.getElementById("front_input");
-  const nextButton = document.getElementById("next");
-  const validityInfo = document.getElementById('validity_check');
+  let mode = "Display";
   
-  init();
+  const englishCard = document.getElementById("front");
+  const greenlandicCard = document.getElementById("back");
+  let englishInput = document.getElementById("front_input");
+  let greenlandicInput = document.getElementById("back_input");
+  let validityInfo = document.getElementById('validity_check');
+  let nextButton = document.getElementById('next');
+  let modeButton = document.getElementById('mode');
+  
+  
+  //deck, which is a copy of the full deck:
+  let currentDeck = initCurrentDeck(vocbase);
+  //random card from the deck:
+  let currentCard = getNewCard(currentDeck); 
+  displayNewCard(currentCard);
 
-  function init() {
-    //copy the entire deck to the current deck(cards will be thrown away):
-    voc = vocbase.slice();
-    //get and display a random current card:
-    pick();
+  function initCurrentDeck(vocbase) {
+    return vocbase.slice();
   }
-  
+  function getNewCard(currentDeck) {
+    var randomCardNo = getRandomCardNo(currentDeck);
+    var pickedCard = currentDeck[randomCardNo];
+    var newCard = { index:randomCardNo, english: pickedCard[1], greenlandic:pickedCard[0] };
+    removeCardFromCurrentDeck(newCard);
+    return newCard;
+  }
   //pick and display a random card from the copied card deck:
-  function pick() {
-    let max = voc.length;
-    random = Math.floor(Math.random() * max);
-    currentCard = voc[random];
-    display(currentCard);
+  function getRandomCardNo(currentDeck) {
+    let max = currentDeck.length;
+    let randomCardNumber = Math.floor(Math.random() * max);
+    return randomCardNumber;
   }
-
-  function next() {
-    //behavior to show answer:
-    //if one od the sides is not displayed (the user is requesting an answer):
-    if (backCard.innerHTML == '&nbsp;' || frontCard.innerHTML == '&nbsp;') {
-          if (mode == 0){
-            flip();
-          } else {
-             validateAnswer();
-          };
+  function removeCardFromCurrentDeck(card){
+    currentDeck.splice(card.index, 1);
+    if (currentDeck.length === 0) {
+      currentDeck = vocbase.slice();
+    } else {
+      currentDeck;
+    }
+  }
+  function displayNewCard(card){
+    clearCurrentData();
+    if (mode == "Display"){
+      displayNewCardInDisplayMode(card);
+    } else {
+      displayNewCardInWriteMode(card);
+    }
+  }
+  function displayNewCardInDisplayMode(card) {
+    if ( sourceLang == "EN" ){
+      englishCard.innerHTML = card.english;
+    } else{
+      greenlandicCard.innerHTML = card.greenlandic;
+    }
+  }
+  function displayNewCardInWriteMode(card) {
+    if ( sourceLang == "EN" ){
+      document.getElementById("front").innerHTML = card.english;
+      document.getElementById("back_input").style.display ="block";
+    } else{
+      document.getElementById("back").innerHTML = card.greenlandic;
+      document.getElementById("front_input").style.display ="block";
+//      greenlandicCard.innerHTML = card.greenlandic;
+    }
+  }
+  function clearCurrentData(){
+     document.getElementById("back_input").style.display ="none";
+     document.getElementById("front_input").style.display ="none";
+     document.getElementById("front_input").innerHTML ="";
+     document.getElementById("back_input").innerHTML ="";
+     document.getElementById("front").innerHTML ="&nbsp;";
+     document.getElementById("back").innerHTML ="&nbsp;";
+  }
+  function next(){
+    if (nextButton.innerHTML == "Answer") {
+      displayCardAnswer(getCurrentCard());
       nextButton.innerHTML = "Next";
     } else {
-     //standard behavior for the next card:
-     //behavior to delete the current card 
-     //create a new deck if it was the last one
-     //and pick a card from the deck.
-      newCard();
+      currentCard = getNewCard(getCurrentDeck());
+      displayNewCard(currentCard);
+      nextButton.innerHTML = "Answer";
     }
   }
-
-  function newCard(){
-     //clear user input from input fields and the validation info:
-     clearUserInputAndValidationInfo();
-     voc.splice(random, 1);
-       if (voc.length === 0) {
-         init();
-       };
-     pick();
-     nextButton.innerHTML = "Answer";
-  }
-
-  function display() {
-    if (lang == 0) {
-      frontCard.innerHTML = currentCard[0];
-      backCard.innerHTML = "&nbsp;";
+  function displayCardAnswer(currentCard){
+    if (mode == "Display"){
+      displayCardAnswerInDisplayMode(currentCard);
     } else {
-      frontCard.innerHTML = "&nbsp;";
-      backCard.innerHTML = currentCard[1];
+      displayCardAnswerInWriteMode(currentCard);
     }
   }
-
-  function flip() {
-    frontCard.innerHTML = currentCard[0];
-    backCard.innerHTML = currentCard[1];
-  }
-
-  function validateAnswer() {
-    let userinput;
-    let requiredAnswer;
-    if (lang == 0 ){
-      requiredAnswer = currentCard[1];
-      userinput = frontInput.value;
-      flip();
-      launchDiff(userinput, requiredAnswer);
+  function displayCardAnswerInDisplayMode(currentCard){
+    if (sourceLang == "EN"){
+      greenlandicCard.innerHTML = currentCard.greenlandic;
     } else {
-      requiredAnswer = currentCard[0];
-      userinput = backInput.value;
-      flip();
-      launchDiff(userinput, requiredAnswer);
+      englishCard.innerHTML = currentCard.english;
     }
   }
-
-  function clearUserInputAndValidationInfo(){
-      frontInput.value="";
-      backInput.value="";
-      validityInfo.innerHTML="&nbsp;";
+  function displayCardAnswerInWriteMode(currentCard) {
+    var requiredAnswer;
+    var userinput;
+    if (sourceLang == "EN" ){
+      requiredAnswer = currentCard.greenlandic;
+      userinput = greenlandicInput.value;
+    } else {
+      requiredAnswer = currentCard.english;
+      userinput = englishInput.value;
+    }
+    launchDiff(userinput, requiredAnswer);
+    if (sourceLang == "EN"){
+      greenlandicCard.innerHTML = currentCard.greenlandic;
+    } else {
+      englishCard.innerHTML = currentCard.english;
+    }
   }
-
-  function launchDiff(x, y) {
+  function launchDiff(y, x) {
     var dmp = new diff_match_patch();
 
     dmp.Diff_Timeout = 10;
@@ -112,42 +128,36 @@
     var ms_end = (new Date()).getTime();
   
     var ds = dmp.diff_prettyHtml(d);
-    validityInfo.innerHTML = "Your answer: "+ds;
-  }
-
-  function switchLang() {
-    if (lang == 0) {
-      lang = 1
-      if (mode == 1){
-        frontInput.style.display="block";
-        backInput.style.display="none";
-      }
-    } else {
-      lang = 0;
-      if (mode == 1){
-        frontInput.style.display="block";
-        backInput.style.display="none";
-      }
-    }
-    clearUserInputAndValidationInfo();
-    nextButton.innerHTML="Answer";
-    display();
-  }
+    validityInfo.innerHTML = "Your answer analysis: "+ds;
+  } 
   function switchMode(){
-    clearUserInputAndValidationInfo();
-    nextButton.innerHTML="Answer";
-    if (mode == 0) {
-      mode = 1;
-      document.getElementById("mode").innerHTML = "Show";
-      if (lang = 0){
-         backInput.style.display="block";
-      } else {
-         frontInput.style.display="block";
-      }
-    } else {      
-      mode = 0;
-      document.getElementById("mode").innerHTML = "Write";
-      backInput.style.display="none";
-      frontInput.style.display="none";
+    clearCurrentData();
+    if (mode == "Display"){
+      mode = "Write";
+      modeButton.innerHTML="Display";
+    } else {
+      mode = "Display";
+      modeButton.innerHTML="Write";
     }
+    //currentCard = getNewCard(currentDeck);
+    displayNewCard(currentCard);
+  }
+  function switchLang(){
+    if (sourceLang == "EN"){
+      sourceLang = "GL"
+    } else {
+      sourceLang = "EN"
+    }
+    nextButton.innerHTML = "Answer";
+    //currentCard = getNewCard(getCurrentDeck());
+    displayNewCard(currentCard);
+  }
+  function getCurrentCard(){
+    return currentCard;
+  }
+  function getCurrentDeck(){
+    return currentDeck;
+  }
+  function getCurrentMode(){
+    return mode;
   }

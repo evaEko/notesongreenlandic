@@ -5,9 +5,11 @@
       <h2 class="list-label">All Posts</h2>
     </header>
     <h1>Welcome!</h1>
-    <p>This page is a collection of notes on West Greenlandic. It contains information on vocabulary, 
-      grammar, and pronunciation. In some cases, I added a flashcard 
-      app and vocabulary.</p>
+    <p>On this page, you will find notes on West Greenlandic, such as, information on vocabulary, 
+      grammar, and pronunciation. On some cases, you can use a flashcard app to memorize suffixes and vocabulary.</p>
+      <p>Note that this is a work in progress and though I am trying to enter only information I am sure is correct, 
+        there is a good chance, I will make mistakes. If you happen to spot some, please, drop me a line at {{ partial "myemail.html" }}
+      </p>
       <p>Here is the full list of topics:</p>
         <!-- list all pages of the site-->
         {{ range .Site.Pages.ByWeight }}
