@@ -11,6 +11,8 @@ let vocbase = [
     ["orpik (tree)", "orpiit"],
     ["assak (hand)", "assaat"],
     ["illu (house)", "illut"],
-    ["inuk (human)", "inuit"]
+    ["inuk (human)", "inuit"],
+    ["najugaq (dwelling)", "najukkaat"]
+
   ];
 </script>

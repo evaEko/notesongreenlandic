@@ -76,16 +76,17 @@ sinnip + giatur +poq => sinniggiaturpoq -> sinniKKiatorpoq
 +PAK means "something" and +SUAG means "big"
 
 +PAK and +SUAG must be always preceded by a double consonant:
-`[noun ending in a vowel] + PAKSUAQ: insert an "r"`
+`[noun ending in a vowel] + PAK=SUAQ: insert an "r"`
 
-`ukiorpassuarni`: in many years
 **Note:** Singular many like in <s>`ukiorpassuaq`</s> does not exist obviously, only `ukiorpassuit`
 
 **Examples:**
 
-* _anaana+PAS=SUAQ+ni_ -\> anaana**r**passsuarni
-* _eqqumiitsuliortoq+PAS=SUAQ-it(s')_ -\> eqqumiitsuliotorpassuit
-* _immikkoortoq+PAK=SUAQ-it('s)_ -\> immikkoortorpassuit
+* _anaana+PAK=SUAQ+ni_ -> `anaana**r**passsuarni`
+* _eqqumiitsuliortoq+PAK=SUAQ-it(s')_ -> `eqqumiitsuliotorpassuit`
+* _immikkoortoq+PAK=SUAQ-it('s)_ -> `immikkoortorpassuit`
+* _nuna+PAK=SUAQ+nik -> `nuna**r**passuarnik`
+* _ukioq+PAK=SUAQ+ni -> `ukiorpassuarni` (in many years)
 
 ### N-innaq: a simple/just N
 

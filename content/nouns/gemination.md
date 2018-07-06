@@ -12,4 +12,5 @@ Word ending with -gaq, -raq, -seq, -leq, -iak, -iaq like meeraq, oqaaseq, kalaal
 * meeraq -nut -> meeqqanut
 * atuagaq -it -> atuakkat
 * taseq -it -> tatsit
+* najugaq -mi -> najukkami
 

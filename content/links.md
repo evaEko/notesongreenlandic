@@ -1,5 +1,5 @@
 ---
-title: "Links"
+title: "Useful Links"
 date: "2018-06-30"
 layout: "links"
 menu: "main"

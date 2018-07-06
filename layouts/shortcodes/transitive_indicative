@@ -11,6 +11,7 @@ let vocbase = [
     ["vaanga", "It V me"],
     ["vaatit", "It V you."],
     ["vaa", "It V it."],
+    ["nngilaa", "It doesn'tV it."],
     ["vaatigut", "It V us."],
     ["vaasi", "It V you (pl)."],
     ["vai", "It V them."],

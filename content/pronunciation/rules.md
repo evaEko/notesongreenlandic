@@ -38,3 +38,8 @@ weight: 610
 * ...uvi... -> ui 
 * `t` between two vowels becomes `n`:
   * `_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is
+* `tv` and `tp` become `l`:
+  * sammisari + niar=nngit +viuk -> sammisarinianngiliuk
+* `k` between two vowels becomes `ng`:
+  * Kangerlussuaq+miu-u+niar+contemporative 3 pl +una ->
+Kangerlussuarmiuuniarlutinguna

@@ -11,6 +11,7 @@
         there is a good chance, I will make mistakes. If you happen to spot some, please, drop me a line at {{ partial "myemail.html" }}
       </p>
       <p>Here is the full list of topics:</p>
+         <ul>
         <!-- list all pages of the site-->
         {{ range .Site.Pages.ByWeight }}
         <!--excluding pages link links and about based on their exclude parameter:-->

@@ -18,6 +18,8 @@ The derivation of the citizen name is done with the +miu morpheme, which means "
 | Avanersuaq                         | Avanersuaq        | Avanersuarmiu       |
 | Narsaq                             | Narsaq            | Narsarmiu           |
 | Uummannaq                          | Uummannaq         | Uummannamiu         |
-| Kangaatsiaq                        | Kangaatsiaq (p)   | Kangaatsiamiu       |
-| Illoqqortoormiut                   | Illoqqortoormioq? | Illoqqortoormiormiu |
+| Kangaatsiaq                        | Kangaatsiaq       | Kangaatsiarmiu      |
+| Illoqqortoormiut                   | Illoqqortoormioq?(p)|                   |
 | Nanortalik                         | Nanortalimmiu     |                     |
+| Tasiilaq                           | Tasiilaq (up)     | Tasiilarmiu         |
+| Qasigiannguit                      | Qasigiannguat     | Qasigiannguamiu     |

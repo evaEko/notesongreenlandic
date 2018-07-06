@@ -30,8 +30,9 @@ participle clause are different:
 
 **Examples**
 
-| Example                | Translation                      | Analysis       |      Notes                                          |
-|------------------------|----------------------------------|----------------|-----------------------------------------------------|
-| Oqarpunga sulisutit.   | I said that you work(ed).        | suli + tutit   | t of the participle is meeting the vowel [i] -> s   |
-| Oqarpoq sulitunga.     | He/she/it said that I work.      |                |                                                     |
-| Oqarpoq oqanngitsut.   | He/she/it said that they said.   |                |                                                     |
+| Example                      | Translation                                    | Analysis     | Notes                                             |
+|------------------------------|------------------------------------------------|--------------|---------------------------------------------------|
+| Oqarpunga sulisutit.         | I said that you work(ed).                      | suli + tutit | t of the participle is meeting the vowel [i] -> s |
+| Oqarpoq sulitunga.           | He/she/it said that I work.                    |              |                                                   |
+| Oqarpoq oqanngitsut.         | He/she/it said that they said.                 |              |                                                   |
+| Oqarpoq illuqarniarnngitsut. | He/she/it said that they will not have a house |              |                                                   |

@@ -13,7 +13,7 @@ weight: 420
 |----- |------- |------ |-------- |-------- |------ |----- |------- |-------- |------- |-------  |-------- | -----|
 |I     |        |       |vakkit   |         |vara   |      |        |         |vassi   |nngilassi|vakka    |         |
 |You   |varma   |       |         |         |vat    |      |vatsigut|         |        |         |vatit    |         |
-|He    |vaanga  |       |vaatit   |         |vaa    |      |vatigut |         |vassi   |         |vai      |         |
+|He    |vaanga  |       |vaatit   |         |vaa    |nngilaa|vatigut |         |vassi   |         |vai      |         |
 |We    |        |       |vatsigit |         |varput |      |        |         |vassi   |         |vavut    |nngilagut|
 |You pl|vassinga|       |         |         |varsi  |      |vassigut|         |        |         |vasi     |         |
 |They  |vaannga |       |vaatsit  |         |vaat   |      |vaatugut|         |vaasi   |         |vaat     |         |

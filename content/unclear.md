@@ -4,7 +4,7 @@ date: 2018-07-01T19:43:11+02:00
 draft: false
 layout: "about"
 menu: "main"
-wieght: 5000
+weight: 5000
 exclude: 1
 ---
 
