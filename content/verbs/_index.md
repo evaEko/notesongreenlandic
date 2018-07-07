@@ -42,5 +42,6 @@ Used in subordinate object clauses without coreference (Subject1 Vbs that Subjec
 ## Other
 
 ### [Future](future)
+### [Negation](negation)
 ### [Attribute Verbs](attributiveverbs)
 

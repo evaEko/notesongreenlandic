@@ -73,7 +73,8 @@ sinnip + giatur +poq => sinniggiaturpoq -> sinniKKiatorpoq
 
 ### N+PAK=SUAQ: Many
 
-+PAK means "something" and +SUAG means "big"
++PAK means "something" and +SUAG means "big". It is realized either with
+`+suaq` or `+suk`
 
 +PAK and +SUAG must be always preceded by a double consonant:
 `[noun ending in a vowel] + PAK=SUAQ: insert an "r"`

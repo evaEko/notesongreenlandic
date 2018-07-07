@@ -12,7 +12,7 @@ let vocbase = [
     ["assak (hand)", "assaat"],
     ["illu (house)", "illut"],
     ["inuk (human)", "inuit"],
-    ["najugaq (dwelling)", "najukkaat"]
-
+    ["najugaq (dwelling)", "najukkaat"],
+    ["angutaannaq (simple man)", "angutaannaat"]
   ];
 </script>

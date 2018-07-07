@@ -26,7 +26,7 @@ weight: 610
 ### Assimilation Rules
 *   If there are two consonants, the second one assimilates the first one: \[c1\]\[c2\] -> \[c2\]\[c2\]
     
-    For example: Ilisimatusarfik + mi => IlisimatusarfiMMi
+    For example: Ilisimatusarfik + mi -> IlisimatusarfiMMi
     
     vv -> pp
 *   Two v, l, g, and r characters become unvoiced (for example [illit](pronunciation.html)); vv -> pp/kk
@@ -35,11 +35,12 @@ weight: 610
     
     _This does not apply if the "a" is the final letter of a word_: ataata +i -> ataatai
 * ...uva... -> ua (taku +vara -&gt; takuara)
-* ...uvi... -> ui 
+* ...uvi... -> ui  (Nuummiu+u+vit -> `Nuummiuuit`)
 * `t` between two vowels becomes `n`:
   * `_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is
 * `tv` and `tp` become `l`:
   * sammisari + niar=nngit +viuk -> sammisarinianngiliuk
 * `k` between two vowels becomes `ng`:
-  * Kangerlussuaq+miu-u+niar+contemporative 3 pl +una ->
-Kangerlussuarmiuuniarlutinguna
+  * Kangerlussuaq+miu-u+niar+contemporative 3 pl +una -> `Kangerlussuarmiuuniarlutinguna`
+* `q` between two vowel becomes `j`????:
+  * `qalunaajuvoq`

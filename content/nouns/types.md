@@ -11,19 +11,24 @@ The type decides the declension rules (not derivation) for ± morphemes.
 * _P-nouns_:
   * -p in Relative
     arnaq: -p  
-    ukioq (year), ukiup (year's), ukiut (years)
+    ukioq (year), ukiup (year's), ukiut (years')
     
     BUT does not apply to derivation
 * _UP-nouns_:
   * +/-up in Relative
-    Whether it is + or - varies from noun to noun
-    * `-fik`: +up
-    * `-suaq`: -up
-    * `-innaq`: +up
-
-
-eqqumiitsuliortoq±mi: (p noun)
-eqqumiitsuliortumi (uses **-**mi, not +mi)
+    * singular:
+      * `-fik`: +up
+      * `-suaq`: -up
+      * `-innaq`: +up
+    * plural: it
+      
+      Whether it is + or - varies from noun to noun
 
 **Note:**
 Schwa is not orthographically marked and is disappearing. However, words like angut, taagut, don't end in t but in schwa. This becomes evident in words like taaguutaa (taaguutə + a), angutaavoq (angutə + u +poq)
+
+**Example**
+~~~~~~
+eqqumiitsuliortoq±mi: (p noun)
+eqqumiitsuliortumi (uses **-**mi, not +mi)
+~~~~~~

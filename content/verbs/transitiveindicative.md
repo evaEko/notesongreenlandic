@@ -9,14 +9,14 @@ weight: 420
 
 {{% deriv_table margin-left="0" %}}
 
-|      |  Me    |! Me   |You      |! You    |It     |! It  |Us      |! Us     |You pl  |! You pl | Them    |! Them|
-|----- |------- |------ |-------- |-------- |------ |----- |------- |-------- |------- |-------  |-------- | -----|
-|I     |        |       |vakkit   |         |vara   |      |        |         |vassi   |nngilassi|vakka    |         |
-|You   |varma   |       |         |         |vat    |      |vatsigut|         |        |         |vatit    |         |
-|He    |vaanga  |       |vaatit   |         |vaa    |nngilaa|vatigut |         |vassi   |         |vai      |         |
-|We    |        |       |vatsigit |         |varput |      |        |         |vassi   |         |vavut    |nngilagut|
-|You pl|vassinga|       |         |         |varsi  |      |vassigut|         |        |         |vasi     |         |
-|They  |vaannga |       |vaatsit  |         |vaat   |      |vaatugut|         |vaasi   |         |vaat     |         |
+|        | Me       | ! Me   | You      | ! You    | It     | ! It    | Us       | ! Us     | You pl  | ! You pl  | Them     | ! Them    |
+| -----  | -------  | ------ | -------- | -------- | ------ | -----   | -------  | -------- | ------- | -------   | -------- | -----     |
+| I      |          |        | vakkit   |          | vara   |         |          |          | vassi   | nngilassi | vakka    |           |
+| You    | varma    |        |          |          | vat    |         | vatsigut |          |         |           | vatit    |           |
+| He     | vaanga   |        | vaatit   |          | vaa    | nngilaa | vaatigut |          | vaassi  |           | vai      |           |
+| We     |          |        | vatsigit |          | varput |         |          |          | vassi   |           | vavut    | nngilagut |
+| You pl | vassinga |        |          |          | varsi  |         | vassigut |          |         |           | vasi     |           |
+| They   | vaannga  |        | vaatsit  |          | vaat   |         | vaatigut |          | vaasi   |           | vaat     |           |
 {{% /deriv_table %}}
 
 {{< transitive_indicative >}}

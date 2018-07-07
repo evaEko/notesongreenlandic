@@ -6,8 +6,10 @@ layout: "about"
 menu: "main"
 weight: 300
 ---
-### [Up and P Nouns](types/)
-### [Gemination in Noun Stems](gemination/)
-### [Plural](plural/)
-### [Cases](cases/)
+### [Up and P Nouns](types)
+### [Plural](plural)
+### [Cases](cases)
+### [Gemination in Noun Stems](gemination)
+### [Genitive Construction](genitive)
+### [Noun Belonging to Subject](balongstosubject)
 

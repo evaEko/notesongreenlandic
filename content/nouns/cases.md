@@ -27,6 +27,7 @@ or the objects of transitive verbs
   * N-ga: N of mine (my N; meeraara)
   * N-a: N of its (its N)
   * N-at: N of theirs (their N, `Kalaallit nunaAT`)
+  * N-i: Ns of its (its Ns, `qallunaarpassui`: his many danes)
 * *Allative:*
   * N±mut: to N
   * N±nut: to Ns

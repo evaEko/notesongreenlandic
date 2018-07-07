@@ -43,7 +43,7 @@ The form expresses the object of the action only!
 Oqarpunga qarasaasiaq atorsima*llugu*.
 I say/said that I can use a computer.
 
-## Contemporative Intrasitive
+## Contemporative Intransitive
 
 Expresses `Subject V1 that/and Subject V2`:
 The subject is clear even without the superordinate clause.

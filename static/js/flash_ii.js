@@ -60,21 +60,21 @@
   }
   function displayNewCardInWriteMode(card) {
     if ( sourceLang == "EN" ){
-      document.getElementById("front").innerHTML = card.english;
-      document.getElementById("back_input").style.display ="block";
+      englishInput.innerHTML = card.english;
+      greenlandicInput.style.display ="block";
     } else{
-      document.getElementById("back").innerHTML = card.greenlandic;
-      document.getElementById("front_input").style.display ="block";
+      greenlandicCard.innerHTML = card.greenlandic;
+      englishInput.style.display ="block";
 //      greenlandicCard.innerHTML = card.greenlandic;
     }
   }
   function clearCurrentData(){
-     document.getElementById("back_input").style.display ="none";
-     document.getElementById("front_input").style.display ="none";
-     document.getElementById("front_input").innerHTML ="";
-     document.getElementById("back_input").innerHTML ="";
-     document.getElementById("front").innerHTML ="&nbsp;";
-     document.getElementById("back").innerHTML ="&nbsp;";
+     greenlandicInput.style.display ="none";
+     englishInput.style.display ="none";
+     englishInput.innerHTML ="";
+     greenlandicInput.innerHTML ="";
+     englishCard.innerHTML ="&nbsp;";
+     greenlandicCard.innerHTML ="&nbsp;";
   }
   function next(){
     if (nextButton.innerHTML == "Answer") {
