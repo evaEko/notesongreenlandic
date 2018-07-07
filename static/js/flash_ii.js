@@ -12,7 +12,7 @@
   let nextButton = document.getElementById('next');
   let modeButton = document.getElementById('mode');
   
-  
+
   //deck, which is a copy of the full deck:
   let currentDeck = initCurrentDeck(vocbase);
   //random card from the deck:
@@ -29,7 +29,6 @@
     removeCardFromCurrentDeck(newCard);
     return newCard;
   }
-  //pick and display a random card from the copied card deck:
   function getRandomCardNo(currentDeck) {
     let max = currentDeck.length;
     let randomCardNumber = Math.floor(Math.random() * max);
@@ -57,15 +56,15 @@
     } else{
       greenlandicCard.innerHTML = card.greenlandic;
     }
+    nextButton.innerHTML = "Answer";
   }
   function displayNewCardInWriteMode(card) {
     if ( sourceLang == "EN" ){
-      englishInput.innerHTML = card.english;
+      englishCard.innerHTML = card.english;
       greenlandicInput.style.display ="block";
     } else{
       greenlandicCard.innerHTML = card.greenlandic;
       englishInput.style.display ="block";
-//      greenlandicCard.innerHTML = card.greenlandic;
     }
   }
   function clearCurrentData(){
@@ -75,6 +74,7 @@
      greenlandicInput.innerHTML ="";
      englishCard.innerHTML ="&nbsp;";
      greenlandicCard.innerHTML ="&nbsp;";
+     validityInfo.innerHTML ="&nbsp;"
   }
   function next(){
     if (nextButton.innerHTML == "Answer") {
@@ -131,7 +131,6 @@
     validityInfo.innerHTML = "Your answer analysis: "+ds;
   } 
   function switchMode(){
-    clearCurrentData();
     if (mode == "Display"){
       mode = "Write";
       modeButton.innerHTML="Display";
@@ -139,7 +138,6 @@
       mode = "Display";
       modeButton.innerHTML="Write";
     }
-    //currentCard = getNewCard(currentDeck);
     displayNewCard(currentCard);
   }
   function switchLang(){
@@ -149,9 +147,9 @@
       sourceLang = "EN"
     }
     nextButton.innerHTML = "Answer";
-    //currentCard = getNewCard(getCurrentDeck());
     displayNewCard(currentCard);
   }
+  
   function getCurrentCard(){
     return currentCard;
   }
