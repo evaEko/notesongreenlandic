@@ -1,0 +1,19 @@
+<table class="responsive_table">
+  <thead>
+    <tr>      
+      <th>Greenlandic</th>
+      <th>English</th>
+      <th>Example</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  {{ $data := index .Site.Data (.Get 0) }}
+  {{ range $data }}
+   <tr>
+     <td>{{.gl}}&nbsp;</td>
+     <td>{{.en}}&nbsp;</td>
+     <td>{{.example}}&nbsp;</td>
+     <td>{{.notes}}&nbsp;</td>
+   </tr>
+{{ end }}
+</table>
