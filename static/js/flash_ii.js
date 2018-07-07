@@ -149,6 +149,23 @@
     nextButton.innerHTML = "Answer";
     displayNewCard(currentCard);
   }
+//click next button when user hits enter in an input field:
+  englishInput.addEventListener("keyup", function(event) {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Number 13 is the "Enter" key on the keyboard
+    if (event.keyCode === 13) {
+      nextButton.click();
+    }
+  });
+  greenlandicInput.addEventListener("keyup", function(event) {
+    // Cancel the default action, if needed
+    event.preventDefault();
+    // Number 13 is the "Enter" key on the keyboard
+    if (event.keyCode === 13) {
+      nextButton.click();
+    }
+  });
   
   function getCurrentCard(){
     return currentCard;
