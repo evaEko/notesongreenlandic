@@ -8,8 +8,11 @@ weight: 350
 ---
 Genitive construction mark both the possessor and the possessum:
 `Nukap meerai`: Nuka's children
-* possessor: in Relative case
+
+* possessor: in [relative case](/nouns/cases)
 * possessum: possessive suffix + the required case (absolutive in the example)
 
 **Examples**
+
 * `Kalaallit` Greenlanders'
+* `Nukaap` Nuka's 

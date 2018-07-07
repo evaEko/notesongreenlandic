@@ -195,5 +195,7 @@ pre {
   #maintitle {
     margin-top: auto !important;
   }
- 
+  #flash{
+    height: 75vh;
+  } 
 }

@@ -7,7 +7,7 @@ layout: "about"
 weight: 700 
 ---
 
-### [Derivation Suffixes](derivation)
+### [Derivation](derivation)
 ### [List of Verbs](verblist)
 ### [List of Nouns](nouns)
 ### [Word Lore](lore)

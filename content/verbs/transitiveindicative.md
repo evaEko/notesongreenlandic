@@ -5,6 +5,7 @@ layout: "about"
 date: 2018-06-22T19:58:52+02:00
 draft: false
 weight: 420
+flash: 1
 ---
 
 {{% deriv_table margin-left="0" %}}

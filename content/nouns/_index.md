@@ -11,5 +11,5 @@ weight: 300
 ### [Cases](cases)
 ### [Gemination in Noun Stems](gemination)
 ### [Genitive Construction](genitive)
-### [Noun Belonging to Subject](balongstosubject)
+### [Noun Belonging to Subject](belongstosubject)
 

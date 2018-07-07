@@ -47,5 +47,8 @@ var _hmt = _hmt || [];
 })();
 </script>
 {{ end }}
+
+{{ if eq .Params.flash 1 }}
 <script async src="/js/flash_ii.js"></script>
 <script async src="/js/diff_match_patch.js"></script>
+{{ end }}

@@ -1,10 +1,10 @@
-<div>
+<div id="flash">
   <h2 onload="init()">Test Yourself</h2>
   <div id="cardBlock">
     <p id="front">&nbsp;</p>
     <p id="back">&nbsp;</p>
-    <input id="front_input" value="" style="display:none" placeholder="English">
-    <input id="back_input" value="" style="display:none" placeholder="Greenlandic">
+    <input id="front_input" value="" style="display:none" placeholder="...">
+    <input id="back_input" value="" style="display:none" placeholder="...">
     <p id="validity_check">&nbsp;</p>
   </div>
 

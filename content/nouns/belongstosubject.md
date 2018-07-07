@@ -11,6 +11,7 @@ To express that a noun belongs to the subject of the clause,
 the noun takes *+gi*: nuliaq + gi -> `nuliari`
 
 ~~~~~~
+ikingutigivara: he/she is my friend
 nuliaq + gi -laar +tigit -> nuliarilaartigit
 ~~~~~~
 

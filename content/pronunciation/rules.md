@@ -34,6 +34,8 @@ weight: 610
 *   when a+\[vowel\] => aa
     
     _This does not apply if the "a" is the final letter of a word_: ataata +i -> ataatai
+*   pg becomes kk; for example: ilinniartip+galuar+vaa -> ilinniartikkaluarpaa
+*   when a+\[vowel\] => aa
 * ...uva... -> ua (taku +vara -&gt; takuara)
 * ...uvi... -> ui  (Nuummiu+u+vit -> `Nuummiuuit`)
 * `t` between two vowels becomes `n`:

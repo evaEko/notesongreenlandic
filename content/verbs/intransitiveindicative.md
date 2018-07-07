@@ -4,6 +4,7 @@ date: 2018-06-23T23:23:13+02:00
 draft: false
 layout: "about"
 weight: 410
+flash: 1
 ---
 Intransitive indicative expresses that a subject does ("something/one verbs").
 The suffix to the verb stem is **vu**. Then you attach the personal ending:

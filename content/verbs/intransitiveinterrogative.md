@@ -4,6 +4,7 @@ date: 2018-07-01T09:24:04+02:00
 draft: false
 layout: "about"
 weight: 430
+flash: 1
 ---
 Intransitive interrogative expresses a question whether a subject does 
 something ("Does something/someone verb?").

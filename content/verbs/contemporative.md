@@ -4,6 +4,7 @@ date: 2018-07-01T09:36:03+02:00
 draft: false
 layout: "about"
 weight: 450
+flash: 0
 ---
 It is coreferential *only*: the subject of the participle clause *is the same*
 as the subject of the superordinate clause (it was Bernard who was buttering the toast *and*
