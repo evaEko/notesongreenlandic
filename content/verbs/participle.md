@@ -4,6 +4,8 @@ date: 2018-07-01T11:09:55+02:00
 draft: false
 layout: "about"
 weight: 460
+exclude: 0
+responsivetable: 1
 ---
 
 One of the usages:
@@ -28,11 +30,4 @@ participle clause are different:
 
 {{% /deriv_table %}}
 
-**Examples**
-
-| Example                      | Translation                                    | Analysis     | Notes                                             |
-|------------------------------|------------------------------------------------|--------------|---------------------------------------------------|
-| Oqarpunga sulisutit.         | I said that you work(ed).                      | suli + tutit | t of the participle is meeting the vowel [i] -> s |
-| Oqarpoq sulitunga.           | He/she/it said that I work.                    |              |                                                   |
-| Oqarpoq oqanngitsut.         | He/she/it said that they said.                 |              |                                                   |
-| Oqarpoq illuqarniarnngitsut. | He/she/it said that they will not have a house |              |                                                   |
+{{% responsive_table url="static/data/participle.csv" sep="," %}}

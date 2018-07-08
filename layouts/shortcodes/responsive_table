@@ -1,19 +1,26 @@
-<table class="responsive_table">
-  <thead>
-    <tr>      
-      <th>Greenlandic</th>
-      <th>English</th>
-      <th>Example</th>
-      <th>Notes</th>
-    </tr>
-  </thead>
-  {{ $data := index .Site.Data (.Get 0) }}
-  {{ range $data }}
-   <tr>
-     <td>{{.gl}}&nbsp;</td>
-     <td>{{.en}}&nbsp;</td>
-     <td>{{.example}}&nbsp;</td>
-     <td>{{.notes}}&nbsp;</td>
-   </tr>
-{{ end }}
+<table class="responsive_table">  
+ {{ $url := .Get "url" }}
+  {{ $sep := .Get "sep" }}
+  {{ range $i, $r := getCSV $sep $url }}
+
+    {{ if eq $i 0 }}
+      <thead>
+        <tr>
+          {{ range $r }}
+            <th>{{ . }}</th>
+          {{end}}
+        </tr>
+      </thead>
+    {{else}}
+      <tbody>
+        <tr>
+          {{ range  $r }}
+            <td>{{ . }}</td>
+          {{end}}
+        </tr>
+      </tbody>
+    {{end}}
+
+  {{ end }}
+
 </table>

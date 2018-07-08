@@ -17,27 +17,27 @@ Verbs' behavior is mainly determined by its transitivity. Transitivity is the ab
 Similarly in Greenlandic:
 
 * `Sinnippoq` ([intransitive indicative](intransitiveindicative)): he sleeps/slept (sinnik + voq); <s>Sinnippaanga</s>
-* `Eqqaamavaanga` ([transitive indicative](transitiveindicative)): he remembers me(eqqaama + vaanga); <s>Eqqaamavoq</s>
+* `Eqqaamavaanga` ([transitive indicative](transitiveindicative)): he remembers me (eqqaama + vaanga); <s>Eqqaamavoq</s>
 
 Based on transitivity, the respective transitive of intransitive paradigm is used for the verb.
 
 ## Moods of Verbs
 ### Indicative
-S1 does something.
+Subject does something.
 #### [Intransitive Indicative](intransitiveindicative)
 Only subject involved in the action (I Vb)
 #### [Transitive Indicative](transitiveindicative)
-Subject talking about an object (I Vb it)
+Subject acting on an object (I Vb it)
 ### Interrogative
 Does subject do something?
 #### [Intransitive Interrogative](intransitiveinterrogative)
-Subject is asking with an object involved (Do I Vb it?)
+Does subject act? (Do I Vb?)
 #### [Transitive Interrogative](transitiveinterrogative)
-Subject asking an object (Do I V it?)
+Does subject act on an object (Do I V it?)
 ### [Contemporative](contemporative)
-Used in subordinate subject or object clause when the subject of the superordinate clause is the subject of the subordinate clause (Subject Vbs that Subject Vbs.)
+Used in subject or object clause when the subject of the superordinate clause is the subject of the subordinate clause (Subject Vbs that Subject Vbs.)
 ### [Participle](participle)
-Used in subordinate object clauses without coreference (Subject1 Vbs that Subject1 Vbs.)
+Used in object clauses without coreference (Subject1 Vbs that Subject2 Vbs.)
 
 ## Other
 

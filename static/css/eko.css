@@ -206,8 +206,6 @@ pre {
   .responsive_table td,
   .responsive_table tr{
     display: block;
-
-
   }
   .responsive_table thead tr { 
 		position: absolute;
@@ -222,18 +220,16 @@ pre {
 		position: relative;
 		padding-left: 35%; 
   }
+  /* the before pseudo element is used as a table header 
+  since the each row is displayed as its own table:*/
   .responsive_table td:before { 
-		/* Now like a table header */
 		position: absolute;
 		/* Top/left values mimic padding */
-		top: 6px;
+		top: 8px;
 		left: 6px;
 		width: 30%; 
 		padding-right: 10px; 
 		white-space: nowrap;
-	}
-  .responsive_table td:nth-of-type(1):before { content: "Greenlandic"; }
-	.responsive_table td:nth-of-type(2):before { content: "English"; }
-	.responsive_table td:nth-of-type(3):before { content: "Example"; }
-	.responsive_table td:nth-of-type(4):before { content: "Notes"; }
+  }
+
 }

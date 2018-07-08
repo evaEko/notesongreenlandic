@@ -5,8 +5,9 @@ draft: false
 layout: "about"
 weigth: 740
 flash: 1
+responsivetable: 1
 ---
-{{% responsive_table "lore" %}}
+{{% responsive_table url="static/data/lore.csv" sep=","  %}}
 
 {{< greenlandic_cards >}}
 

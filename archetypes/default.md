@@ -6,5 +6,6 @@ layout: "about"
 exclude: 0
 weight: 0
 flash: 0
+responsivetable: 0
 ---
 
