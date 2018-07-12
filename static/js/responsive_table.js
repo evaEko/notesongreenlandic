@@ -11,7 +11,7 @@ var stylesheet = document.styleSheets[document.styleSheets.length-1];
 for (i = 0; i < ths.length; i++) { 
     stylesheet.insertRule("@media only screen and (max-width: 800px){.responsive_table td:nth-of-type("+(i+1)+"):before { content: \""+ths[i].innerHTML +"\"; }}");
 };
-//add nbsp to empty cells ():
+//add nbsp to empty cells () to prevent collapse of td lines when table is rendered on mobile devices:
 var tds = document.querySelectorAll(".responsive_table tbody tr td");
 tds.forEach(td => {
         td.innerHTML = td.innerHTML+"&nbsp;";

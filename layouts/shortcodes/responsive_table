@@ -19,7 +19,7 @@
           {{end}}
         </tr>
       </tbody>
-    {{end}}
+    {{ end }}
 
   {{ end }}
 
