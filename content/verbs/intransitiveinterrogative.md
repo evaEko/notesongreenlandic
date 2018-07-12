@@ -13,7 +13,7 @@ something ("Does something/someone verb?").
 
 |Person |Suffix |Example|Translation    |Negation   |Example|
 |---    |---    |---    |---            |---        |---    |
-|You    |vit    |Kaapit?|Are you hungry?|-ngilatit  |Najalerinngilatit?|
+|You    |vit    |Kaappit?|Are you hungry?|-ngilatit  |Najalerinngilatit?|
 |He     |va     |       |               |           |       |
 |You pl |visi   |       |               |           |       |
 |They   |(v)vat |       |               |           |       |
