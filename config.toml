@@ -1,4 +1,4 @@
-baseURL = "http://kopalova.sk"
+baseURL = "http://notesongreenlandic.eu"
 languageCode = "en"
 title = "Greenlandic"
 theme = "hugo-nuo"
@@ -9,7 +9,7 @@ canonifyurls = true
 googleAnalytics = "UA-120660550-1"
 
 # Copyright of your post
-copyright = "© 2018 Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Please give source if you quote or reproduce."
+copyright = "Copyright 2018 Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Please give source if you quote or reproduce."
 
 # Initial site menu, you can extend menu with content.
 #[[menu.main]]

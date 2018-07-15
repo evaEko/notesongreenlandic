@@ -136,6 +136,12 @@ pre {
 
   padding: 0.4rem 0;  
 }
+.img-inline {
+  margin: 0 0 0 0 !important;
+  display: inline !important;
+  -webkit-box-shadow: none !important;
+}
+
 @media only screen and (max-width: 800px){
   .title{
     margin-top: 0rem;

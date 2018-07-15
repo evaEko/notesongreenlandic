@@ -6,5 +6,6 @@ draft: false
 layout: "about"
 weight: 600 
 ---
+### [Prosody](prosody/)
 ### [Phonotactics and and Orthographic Rules](rules/)
 ### [Pronunciation Samples](samples/)

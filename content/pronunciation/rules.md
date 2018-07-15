@@ -3,7 +3,7 @@ title: "Phonotactics and Orthographic Rules"
 date: 2018-06-30T11:12:35+02:00
 draft: false
 layout: "about"
-weight: 610
+weight: 620
 ---
 ### Basic Rules
 
