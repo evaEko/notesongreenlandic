@@ -3,7 +3,7 @@ title: "Derivation"
 date: 2018-06-29T20:22:49+02:00
 draft: false
 layout: "about"
-weigth: 710
+weigth: 1710
 ---
 ### Verbal Suffixes
 

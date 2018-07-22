@@ -3,7 +3,7 @@ title: "Nouns"
 date: 2018-07-01T19:04:14+02:00
 draft: false
 layout: "about"
-weight: 730
+weight: 1730
 ---
 
 ### Family

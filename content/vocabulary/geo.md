@@ -3,7 +3,7 @@ title: "Inhabitants"
 date: 2018-07-01T19:32:00+02:00
 draft: false
 layout: "about"
-weight: 760
+weight: 1760
 ---
 The derivation of the citizen name is done with the +miu morpheme, which means "related to". Note that this needs to be attached to the base (ABS) form of the town/settlement name.
 

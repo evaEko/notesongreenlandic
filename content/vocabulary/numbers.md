@@ -3,7 +3,7 @@ title: "Numbers"
 date: 2018-07-01T19:41:21+02:00
 draft: false
 layout: "about"
-weight: 770
+weight: 1770
 flash: 1
 ---
 
