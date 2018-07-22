@@ -59,7 +59,7 @@ The 3rd persons are reflective (similar to German "sich", Slovak "seba, svoj")
 |---------|-------------|---------------------------------|----------|
 | I       | -(l)lunga   | lu - that do; nga - I           |          |
 | You     | -(l)lutit   | lu - that do; tit - You         |          |
-| It      | (l)luni     | lu - that do; ni - Reflexive It |          |
+| It      | (l)luni     | lu - that do; ni - Reflexive It | -nani    |
 | We      | (l)uta      | lu - that do; ta -we            |          |
 | You pl  | (l)lusi     | lu - that do; si - you pl       |          |
 | They    | (l)lutik    | lu - that do; tik - they        | -natik   |
@@ -69,5 +69,3 @@ The 3rd persons are reflective (similar to German "sich", Slovak "seba, svoj")
 
 Qarasaasiaq ato*rlugu* oqaasilerivoq.
 He works as a linguist using a computer.
-
-

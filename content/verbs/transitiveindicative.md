@@ -17,7 +17,7 @@ flash: 1
 | He     | vaanga   |        | vaatit   |          | vaa    | nngilaa | vaatigut |          | vaassi  |           | vai      |           |
 | We     |          |        | vatsigit |          | varput |         |          |          | vassi   |           | vavut    | nngilagut |
 | You pl | vassinga |        |          |          | varsi  |         | vassigut |          |         |           | vasi     |           |
-| They   | vaannga  |        | vaatsit  |          | vaat   |         | vaatigut |          | vaasi   |           | vaat     |           |
+| They   | vaannga  |        | vaatsit  |          | vaat   | nngilaat| vaatigut |          | vaasi   |           | vaat     |           |
 {{% /deriv_table %}}
 
 {{< transitive_indicative >}}

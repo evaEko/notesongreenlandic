@@ -41,15 +41,13 @@ To repeatedly V over time
 
 ulloq -u +sima=tar +vugut -> ulluusimasarpugut
 
-tutsiuteqqip +sima=tar+lutik+una -> tutsiuteqqissimasarlutinguna
-
 #### V-ssa
 expresses future: Will V
 
 #### V+galuar
 To actually V
 
-#### V+tar=galuar
+#### V+Tar=galuar
 To actually repeatedly V
 
 tutsiuteqqiTTaraluarneq
@@ -59,14 +57,44 @@ should have Ved
 
 oqar-ssagaluar+tunga -> oqassagaluartunga
 
-#### V+giatur
+#### V+giartur
 To go to V; to V more
 
-sinnip + giatur +poq => sinniggiaturpoq -> sinniKKiatorpoq
+* when following a consonant other than r, first the rule that c1,c2 -> c2,c2 applies, then the rule that gg has to be unvoiced just like `ll`, `vv`; hence:
+~~~~~
+sinnip + giartur +poq => sinniggiarturpoq -> sinniKKiartorpoq
+~~~~~
+* after r merged into r (r+g -> r)
+~~~~~
+allariartortoq
+allar+giator+toq
 
+pituffimmukariartoq
+~~~~~
+* after vowel, the g is dropped:
+~~~~~
+immiussi +giatur -> immiussiator
+~~~~~
 #### V-lir
 To begin to V
 
+#### V+una
+here is one that Vs
+
+If it results in the pattern [vowel][consonant apart from q/r]+una -> [vowel]nuna
+
+if the consonant is k, it is devoiced -> `ng`
+
+Hence:
+
+* _ulloq-lik+it+una_ -\> `ullullinuna`
+* tutsiuteqqip +sima=tar+lutik+una -> tutsiuteqqissimasarlutinguna
+* _suli+niar+lutik+una_ -\> suliniarlutinguna
+
+BUT
+
+Sisimiut+miu-u-tar+poq+una ->
+`Sisimiormiuusarporuna`
 
 #### Nominalization
 
@@ -76,9 +104,13 @@ V-ing (noun)
 neq +up
 
 ##### V+toq
-one who Vs (V to N conversion)
+one who Vs (V to N conversion), -p 
 
-+toq takes + declension (-toq+mut)
+`allariartortumukartoq`<br/>
+allar+giator+toq-mut-kar+toq
+
+`..sinnaasormiuunngilanga`<br/>
+sinnaa+toq+miu-u-nngit+nga
 
 #### Examples
 
@@ -107,6 +139,7 @@ Many
 
 +PAK and +SUAG must be always preceded by a double consonant:
 `[noun ending in a vowel] + PAK=SUAQ: insert an "r"`
+for example: `kunngi + passuaq + kka -> kunngeRpassuakka`
 
 **Example**
 

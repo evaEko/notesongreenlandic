@@ -29,7 +29,7 @@ weight: 620
     For example: Ilisimatusarfik + mi -> IlisimatusarfiMMi
     
     vv -> pp
-*   Two v, l, g, and r characters become unvoiced (for example [illit](pronunciation.html)); vv -> pp/kk
+*   Two v, l, g, and r characters become unvoiced (for example [illit](pronunciation.html)); vv -> pp/kk; gg -> kk
 *   rg and qg become r; for example: nuliaq + ga => nuliara
 *   when a+\[vowel\] => aa
     
@@ -37,7 +37,9 @@ weight: 620
 *   pg becomes kk; for example: ilinniartip+galuar+vaa -> ilinniartikkaluarpaa
 *   when a+\[vowel\] => aa
 * ...uva... -> ua (taku +vara -&gt; takuara)
-* ...uvi... -> ui  (Nuummiu+u+vit -> `Nuummiuuit`)
+* ...uvi... -> ui
+
+  * _Nuummiu+u+vit_ -> `Nuummiuuit`; _Maniitsoq+miu+u+vit_ -\> Maniitsormiuuit
 * `t` between two vowels becomes `n`:
   * `_kungi+mut+una_ -> kungimuNuna`:  king singular + terminalis/allative + here is
 * `tv` and `tp` become `l`:
