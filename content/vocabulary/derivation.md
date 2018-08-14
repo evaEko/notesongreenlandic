@@ -57,14 +57,16 @@ should have Ved
 
 oqar-ssagaluar+tunga -> oqassagaluartunga
 
-#### V+giartur
+#### V+giartor
 To go to V; to V more
 
 * when following a consonant other than r, first the rule that c1,c2 -> c2,c2 applies, then the rule that gg has to be unvoiced just like `ll`, `vv`; hence:
+
 ~~~~~
-sinnip + giartur +poq => sinniggiarturpoq -> sinniKKiartorpoq
+sinnip + giartor +poq => sinniggiartorpoq -> sinniKKiartorpoq
 ~~~~~
 * after r merged into r (r+g -> r)
+
 ~~~~~
 allariartortoq
 allar+giator+toq
@@ -72,8 +74,21 @@ allar+giator+toq
 pituffimmukariartoq
 ~~~~~
 * after vowel, the g is dropped:
+
 ~~~~~
-immiussi +giatur -> immiussiator
+immiussi +giartor -> immiussiator
+~~~~~
+* other rules apply (gg -> kk)
+
+~~~~~
+nuup +giartor + neq+ kka -> nuuggiartornekka -> nuukkiartornikka
+~~~~~
+#### V-gunnair
+
+to stop Ving, to no longer V
+~~~~~
+nikip +sinnaa+gunnair+tar+put -> nikissinnajunnaartarput
+(to dislodge/lay down + can + stop + repeatedly + they)
 ~~~~~
 #### V-lir
 To begin to V

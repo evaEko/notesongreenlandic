@@ -12,14 +12,17 @@ The derivation of the citizen name is done with the +miu morpheme, which means "
 | Ilulissat                          | Iluliaq           | Iluliarmiu          |
 | Upernavik                          | Upernavik         | Upernavimmiu        |
 | Aasiaat                            | Aasiaak           | Aasiaammiu          |
-| Sisimiut                           | Sisimioq          | Sisimiormiu         |
-| Ivittuut (plural; hence Ivittuuni) | Ivittooq          | Ivittoormiu         |
+| Sisimiut (p, plural:Sisimiuni)     | Sisimioq          | Sisimiormiu         |
+| Ivittuut (p, plural; Ivittuuni)    | Ivittooq          | Ivittoormiu         |
 | Maniitsoq                          | Maniitsoq         | Maniitsormiu        |
 | Avanersuaq                         | Avanersuaq        | Avanersuarmiu       |
 | Narsaq                             | Narsaq            | Narsarmiu           |
-| Uummannaq                          | Uummannaq         | Uummannarmiu         |
+| Narsasuaq                          | Narsasuaq         | Narsasuarmiu        |
+| Uummannaq                          | Uummannaq         | Uummannarmiu        |
 | Kangaatsiaq                        | Kangaatsiaq       | Kangaatsiarmiu      |
-| Illoqqortoormiut                   | Illoqqortoormioq?(p)|                   |
-| Nanortalik                         | Nanortalimmiu     |                     |
-| Tasiilaq                           | Tasiilaq (up)     | Tasiilarmiu         |
-| Qasigiannguit                      | Qasigiannguat     | Qasigiannguamiu     |
+| Illoqqortoormiut (plural), p       | Illoqqortoormioq? | Illoqqortoormiu     |
+| Nanortalik, p                      | Nanortalimmiu     |                     |
+| Tasiilaq, up                       | Tasiilaq          | Tasiilarmiu         |
+| Qasigiannguit, p                   | Qasigiannguat     | Qasigiannguamiu     |
+| Kangatsiaq, p                      | Kangatsiaq?       | Kangaatsiamiu       |
+| Tasiilaq, p, Tasiilami             |||

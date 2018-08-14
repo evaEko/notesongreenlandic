@@ -36,13 +36,18 @@ The form expresses the object of the action only!
 | it     | (l)lugu            |           |...arnaq pilerpoq Jensen eqillugu| ..the woman said embracing Jensen.|
 | us     | (l)uta             |           |
 | you pl | (l)lusi            |           |
-| them   | (l)lugit           |           |
+| them   | (l)lugit           | nagit     |
 
 {{% /deriv_table %}}
 
 ### Example
+~~~~~~
 Oqarpunga qarasaasiaq atorsima*llugu*.
 I say/said that I can use a computer.
+
+Qarasaasiaq ato*rlugu* oqaasilerivoq.
+He works as a linguist using a computer.
+~~~~~~
 
 ## Contemporative Intransitive
 
@@ -57,15 +62,17 @@ The 3rd persons are reflective (similar to German "sich", Slovak "seba, svoj")
 
 | Subject | Affirmative | Analysis                        | Negative |
 |---------|-------------|---------------------------------|----------|
-| I       | -(l)lunga   | lu - that do; nga - I           |          |
-| You     | -(l)lutit   | lu - that do; tit - You         |          |
-| It      | (l)luni     | lu - that do; ni - Reflexive It | -nani    |
+| I       | (l)lunga    | lu - that do; nga - I            |          |
+| You     | (l)lutit    | lu - that do; tit - You          |          |
+| It      | (l)luni     | lu - that do; ni - Reflexive It | nani     |
 | We      | (l)uta      | lu - that do; ta -we            |          |
 | You pl  | (l)lusi     | lu - that do; si - you pl       |          |
-| They    | (l)lutik    | lu - that do; tik - they        | -natik   |
+| They    | (l)lutik    | lu - that do; tik - they        | natik    |
 {{% /deriv_table %}}
 
 ### Example
 
-Qarasaasiaq ato*rlugu* oqaasilerivoq.
-He works as a linguist using a computer.
+Coordinative clauses:
+~~~~~~
+Kastrup mittarfiuvoq Pituffillu mittarfiulluni.
+~~~~~~

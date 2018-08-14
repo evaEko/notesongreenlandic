@@ -32,7 +32,10 @@ When **negating**, mind that tv->l; hence `nngit + vu -> nngitvu -> nngila`
 | He     | vu-q               | nngila-q   |
 | We     | vu-gut             | nngila-gut |
 | You pl | vu-ssi             | nngila-si  |
-| They   | ppu-t              | nngilla-t  |
+| They   | (v)vu-t            | nngilla-t  |
+
+Mind the *(v)vut* in 3rd person plural: the ending must be preceded by a long consonant; hence, `meeraqarput` (only `put` is added) while `angutaapput` (`pput` is added). Hence never really `vut`; rather `put`.
+
 {{% /deriv_table %}}
 
 {{< intransitive_indicative_cards >}}

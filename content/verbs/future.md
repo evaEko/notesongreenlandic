@@ -9,5 +9,5 @@ flash: 0
 ### Will
 +ssa
 
-**Note:** v is dropped in the combination `-ssa+vu` -> `ssau`<br/> 
+**Note:** v is dropped in the combination `-ssa+vu` -> `ssau` (avu -> au -> aa)<br/> 
 _pingasut+nngor+ssa+vugut_ -> pingasuunguSSAAGUT

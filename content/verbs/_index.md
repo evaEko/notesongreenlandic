@@ -21,6 +21,8 @@ Similarly in Greenlandic:
 
 Based on transitivity, the respective transitive of intransitive paradigm is used for the verb.
 
+Transitivity also defines how to express [definiteness](Definiteness).
+
 ## Moods of Verbs
 ### Indicative
 Subject does something.

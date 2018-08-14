@@ -12,12 +12,12 @@ flash: 1
 
 |        | Me       | ! Me   | You      | ! You    | It     | ! It    | Us       | ! Us     | You pl  | ! You pl  | Them     | ! Them    |
 | -----  | -------  | ------ | -------- | -------- | ------ | -----   | -------  | -------- | ------- | -------   | -------- | -----     |
-| I      |          |        | vakkit   |          | vara   |         |          |          | vassi   | nngilassi | vakka    |           |
-| You    | varma    |        |          |          | vat    |         | vatsigut |          |         |           | vatit    |           |
-| He     | vaanga   |        | vaatit   |          | vaa    | nngilaa | vaatigut |          | vaassi  |           | vai      |           |
+| I      |          |        | vakkit   |          | vara   |         |          |          | vassi   | nngilassi | vakka    | nngilakka |
+| You    | varma    |        |          |          | vat    |         | vatsigut |          |         |           | vatit    | nngilatit |
+| He     | vaanga   |        | vaatit   |          | vaa    | nngilaa | vaatigut |          | vaassi  |           | vai      | nngilai   |
 | We     |          |        | vatsigit |          | varput |         |          |          | vassi   |           | vavut    | nngilagut |
-| You pl | vassinga |        |          |          | varsi  |         | vassigut |          |         |           | vasi     |           |
-| They   | vaannga  |        | vaatsit  |          | vaat   | nngilaat| vaatigut |          | vaasi   |           | vaat     |           |
+| You pl | vassinga |        |          |          | varsi  |         | vassigut |          |         |           | vasi     | nngilasi  |
+| They   | vaannga  |        | vaatsit  |          | vaat   | nngilaat| vaatigut |          | vaasi   |           | vaat     | nngilaat  |
 {{% /deriv_table %}}
 
 {{< transitive_indicative >}}

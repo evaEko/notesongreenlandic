@@ -24,6 +24,9 @@ weight: 340
     * p-nouns: -t
     * up-nouns: ±it
 
+    * inuk -up -> inuup
+    * meeraq -p -> meeqqap (plural meeqqat)
+
 ### Absolutive
 
 * the subjects of intransitive verbs
@@ -33,11 +36,15 @@ or the objects of transitive verbs
 
 `Anaana (Absolutive) eqqaamavarput`: Grandma is object.
   * N±it (up nouns)/N-t (p nouns) 
-  * N-kka: Ns of mine (my N's; meeqqakka)
-  * N-ga: N of mine (my N; meeraara)
+  * N-kka: Ns of mine (my N's; meeqqakka; ..neq-kka -> -nekka)
+  * N+ga: N of mine (my N; meeraara, nukara)
   * N-a: N of its (its N)
   * N-at: N of theirs (their N, `Kalaallit nunaAT`)
   * N-i: Ns of its (its Ns, `qallunaarpassui`: his many danes)
+
+#### Form
+
+Mind: -nnguak -up -> --nnguup
 
 ### Allative
 to something/somebody
@@ -46,15 +53,22 @@ to something/somebody
 * N±nut: to Ns
 
 ### Locative
+
 in something/somebody
 
 * N±mi: in N
 * N±ni: in Ns
 
-* *Instrumental:*
-  * N±mik: with N
-  * N±nik: with Ns
-* *Equative:*
-  * N+tut: like N/Ns `ataataatut`
+### Instumental
+expressing:
+* with 
+* definiteness: indefiniteness of objects of intransitive verbs: `illumik pisissapput`: They will buy A house.
+
+* N±mik: with N
+* N±nik: with Ns
+
+### Equalis
+
+* N+tut: like N/Ns `ataataatut`
 
 Still missing: Ergative, Accusative, Nominative, Ablative, Perlative
