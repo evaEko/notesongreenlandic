@@ -6,7 +6,7 @@ enableRobotsTXT = true
 canonifyurls = true
 
 # Google Analytics UA number
-googleAnalytics = "UA-120660550-1"
+googleAnalytics = ""
 
 # Copyright of your post
 copyright = "Copyright 2018 Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Please give source if you quote or reproduce."

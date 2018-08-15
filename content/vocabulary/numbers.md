@@ -18,7 +18,7 @@ flash: 1
 * 8 arfineq-pingasut/otte
 * 9 qulingiluat/ni
 * 10 qulit/ti
-* 11 elleve
+* 11 aqqanillit (aqqanilik-doesn't really exist)/elleve
 * 12 tolv
 * 13 tretten
 * 14 fjorten
