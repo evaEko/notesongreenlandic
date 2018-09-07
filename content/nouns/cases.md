@@ -10,6 +10,10 @@ weight: 340
 * similar to Genitive; expresses 's and s'
 * the subject for a transitive verb: Fredireksenip (relative case) tamassa eqqittarpai "Frederiksen shook hands with everybody"
 
+* ±ma: my N's
+* ±ni: his N (reflexive; in Slovak "svoj")
+
+
 **Form**
 
 * singular:

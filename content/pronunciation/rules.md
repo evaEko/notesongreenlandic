@@ -30,7 +30,8 @@ weight: 620
     
     vv -> pp
 *   Two v, l, g, and r characters become unvoiced (for example [illit](pronunciation.html)); vv -> pp/kk; gg -> kk
-*   rg and qg become r; for example: nuliaq + ga => nuliara
+*   `rg` and `qg` become `r`; for example: nuliaq + ga => nuliara, -riar + gakku => -riarakku (note that `rp` remains)
+*   `rv` -> `rp`
 *   when a+\[vowel\] => aa
     
     _This does not apply if the "a" is the final letter of a word_: ataata +i -> ataatai

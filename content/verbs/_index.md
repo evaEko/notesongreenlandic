@@ -40,10 +40,13 @@ Does subject act on an object (Do I V it?)
 Used in subject or object clause when the subject of the superordinate clause is the subject of the subordinate clause (Subject Vbs that Subject Vbs.)
 ### [Participle](participle)
 Used in object clauses without coreference (Subject1 Vbs that Subject2 Vbs.)
+### [Causative](causative)
+
 
 ## Other
 
 ### [Future](future)
 ### [Negation](negation)
 ### [Attribute Verbs](attributiveverbs)
+### [Comparison](comparison)
 
