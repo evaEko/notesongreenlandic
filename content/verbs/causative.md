@@ -30,5 +30,4 @@ sivikip + gama -> sivikiggama -> sivikikkama
 {{% /deriv_table %}}
 
 **Example**
-sivikip + gama -> sivikiggama -> sivikikkama
 ogarfigə - riar + gakku -> ogarfigiriargakku -> ogarfigeriarakku

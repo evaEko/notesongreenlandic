@@ -14,8 +14,8 @@
          <ul>
         <!-- list all pages of the site-->
         {{ range .Site.Pages.ByWeight }}
-        <!--excluding pages link links and about based on their exclude parameter:-->
-        {{ if ne .Params.exclude 1 }}
+        <!--excluding this page (index.html) and pages with exclude parameter:-->
+        {{ if and (ne .Params.exclude 1) (ne .Title "Greenlandic") }}
             <!-- render additional h2 if the current file is an index-->
            {{ if eq .File.BaseFileName "_index"}}
          </ul>

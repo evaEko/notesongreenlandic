@@ -17,4 +17,4 @@ I will be grateful for any help/explanation on the following:
     
 *   _assersuut -qar -nngit -tunga +una_ -\> assersuuteqanngitsungaana
     
-    asserssut is a borrowing: hence takes i before derivation
+    assersuut is a borrowing: hence takes i before derivation
